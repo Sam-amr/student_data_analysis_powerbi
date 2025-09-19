@@ -14,4 +14,7 @@ By visualizing key performance indicators (KPIs), this project helps educators a
 
 4) To provide data-driven insights for improving teaching strategies and student success.
 
+### Tool Used
+PowerBi
+
 ### 
