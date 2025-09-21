@@ -17,4 +17,26 @@ By visualizing key performance indicators (KPIs), this project helps educators a
 ### Tool Used
 PowerBi
 
-### 
+### Dataset
+1) Name: Students Performance Dataset
+2) Source: (e.g., Kaggle: Students Performance in Exams dataset, or your own)
+3) Rows: 100 students
+4) Columns/Features:
+          -Gender (Male/Female)
+          -Ethnicity (Group A, B, C, D, E)
+          -Parental level of education (High school, Associate’s, Bachelor’s, Master’s, etc.)
+          -Test preparation course (Completed/None)
+          -Math score
+          -Reading score
+          -Writing score
+   
+### KPIs In Dasboard
+Total number of students
+
+Average Math score
+
+Average Reading score
+
+Average Writing score
+
+Sum of score percentages
