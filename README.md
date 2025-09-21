@@ -40,3 +40,30 @@ Average Reading score
 Average Writing score
 
 Sum of score percentages
+
+### Visuals in Dashboard
+
+Bar Chart – Average Score by Ethnicity
+
+Pie Chart – Average Score by Gender
+
+Bar Chart – Average Score by Parental Education
+
+Donut Chart – Average Score by Test Preparation
+
+Line Chart – Score by Ethnicity & Parental Education
+
+Bar Chart – Average Scores by Student ID
+
+### Insights
+
+1) Students who completed test preparation scored higher than those who didn’t.
+2) Parental education level positively influences student performance.
+3) Gender differences in scores are minimal.
+4) Ethnic group variations exist but are less significant compared to preparation and education level.
+
+### Author
+
+Shrawani M. Amrutkar
+
+https://github.com/Sam-amr
